@@ -1,6 +1,6 @@
 ##  Hello! My name is Matías Adrián Molina
 ![image](https://raw.githubusercontent.com/matias-a-m/matias-a-m/main/banner_m_gh.png)
-### I am an iOS developer trainee, I am learning the syntax of the Swift language so that I can soon be uploading my codes to the platform.
+### I am learning the key concepts of computing, building a solid foundation in programming with Swift. Also on the impact of computing and applications on society, the economy and culture. 
 
 ## Skills:
 [![Apple](https://img.shields.io/badge/iOS-999999?style=for-the-badge&logo=apple&logoColor=white&labelColor=101010)]()
