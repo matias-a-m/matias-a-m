@@ -1,4 +1,4 @@
-##  Hello! My name is Matías Adrián Molina
+##  Hello! My name is Matías
 ![image](https://raw.githubusercontent.com/matias-a-m/matias-a-m/main/banner_m_gh.png)
 ### I am learning the key concepts of computing, building a solid foundation in programming with Swift. Also on the impact of computing and applications on society, the economy and culture. 
 
