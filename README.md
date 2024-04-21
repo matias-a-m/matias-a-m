@@ -1,6 +1,6 @@
 ##  Hola! soy Matías
-![image](https://raw.githubusercontent.com/matias-a-m/matias-a-m/main/banner_m_gh.png)
 ### Estoy aprendiendo los conceptos clave de la informática, construyendo una base sólida en programación con Swift. También me interesa el impacto de la informática y las aplicaciones en la sociedad, la economía y la cultura.
+![image](https://raw.githubusercontent.com/matias-a-m/matias-a-m/main/banner_m_gh.png)
 
 ## Skills:
 [![Apple](https://img.shields.io/badge/iOS-999999?style=for-the-badge&logo=apple&logoColor=white&labelColor=101010)]()
