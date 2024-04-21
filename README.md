@@ -1,6 +1,6 @@
-##  Hello! My name is Matías
+##  Hola! soy Matías
 ![image](https://raw.githubusercontent.com/matias-a-m/matias-a-m/main/banner_m_gh.png)
-### I am learning the key concepts of computing, building a solid foundation in programming with Swift. Also on the impact of computing and applications on society, the economy and culture. 
+### Estoy aprendiendo los conceptos clave de la informática, construyendo una base sólida en programación con Swift. También me interesa el impacto de la informática y las aplicaciones en la sociedad, la economía y la cultura.
 
 ## Skills:
 [![Apple](https://img.shields.io/badge/iOS-999999?style=for-the-badge&logo=apple&logoColor=white&labelColor=101010)]()
