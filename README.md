@@ -1,5 +1,9 @@
-##  Hola! soy Matías
-### Estoy aprendiendo los conceptos clave de la informática, construyendo una base sólida en programación con Swift. También me interesa el impacto de la informática y las aplicaciones en la sociedad, la economía y la cultura.
+##  Desarrollador Creativo | Especializado en iOS | Interesado en Front-End y Android a Futuro
+### Soy un desarrollador creativo especializado en el desarrollo de aplicaciones iOS utilizando Swift y SwiftUI. Mi enfoque principal es crear soluciones innovadoras y eficientes para plataformas móviles.
+
+### Actualmente, tengo conocimientos en HTML, CSS y JavaScript, lo que me permite comprender y aplicar conceptos básicos de Front-End. Estoy interesado en expandir mis competencias hacia el desarrollo de aplicaciones Android en el futuro, pero por el momento, mi dedicación está centrada en iOS.
+
+### Mi portafolio refleja mi compromiso con la excelencia técnica y mi pasión por la tecnología, mientras continúo explorando nuevas áreas y ampliando mis habilidades para lograr un perfil de Full Stack Developer.
 ![image](https://raw.githubusercontent.com/matias-a-m/matias-a-m/main/banner_m_gh.png)
 
 ## Skills:
