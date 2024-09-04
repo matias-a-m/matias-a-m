@@ -1,9 +1,9 @@
-##  Desarrollador Creativo | Especializado en iOS | Interesado en Front-End y Android a Futuro
-### Soy un desarrollador creativo especializado en el desarrollo de aplicaciones iOS utilizando Swift y SwiftUI. Mi enfoque principal es crear soluciones innovadoras y eficientes para plataformas móviles.
+##  Desarrollador iOS Creativo | Explorando Nuevas Tecnologías y Mejora Continua
+### Soy un desarrollador iOS con experiencia en Swift y SwiftUI, enfocado en crear aplicaciones funcionales e innovadoras. Mi portafolio refleja mi compromiso con la calidad del código y la experiencia del usuario.
 
-### Actualmente, tengo conocimientos en HTML, CSS y JavaScript, lo que me permite comprender y aplicar conceptos básicos de Front-End. Estoy interesado en expandir mis competencias hacia el desarrollo de aplicaciones Android en el futuro, pero por el momento, mi dedicación está centrada en iOS.
+### Actualmente, tengo conocimientos en HTML, CSS y JavaScript, y estoy en proceso de aprender más sobre Front-End. Aunque aún no he comenzado con el desarrollo en Android, estoy planeando expandir mis habilidades en esa área en el futuro.
 
-### Mi portafolio refleja mi compromiso con la excelencia técnica y mi pasión por la tecnología, mientras continúo explorando nuevas áreas y ampliando mis habilidades para lograr un perfil de Full Stack Developer.
+### Me dedico a mejorar continuamente mi portafolio, corrigiendo errores y refinando mis proyectos para ofrecer soluciones robustas y efectivas. Estoy siempre abierto a aprender y a aplicar nuevas tecnologías para enfrentar desafíos más complejos y contribuir a proyectos de impacto.
 ![image](https://raw.githubusercontent.com/matias-a-m/matias-a-m/main/banner_m_gh.png)
 
 ## Skills:
