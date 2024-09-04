@@ -1,9 +1,7 @@
 ##  Desarrollador iOS Creativo | Explorando Nuevas Tecnologías y Mejora Continua
-### Con experiencia en iOS 📱, especializado en Swift y SwiftUI, enfocado en crear aplicaciones funcionales e innovadoras. Mi portafolio, actualmente en construcción 🛠️, refleja mi compromiso con la calidad del código y la experiencia del usuario (UX/UI) 🎨.
+### Con experiencia en iOS 📱 y especializado en Swift y SwiftUI, me dedico a crear aplicaciones funcionales e innovadoras. Mi portafolio, actualmente en construcción 🛠️, refleja mi compromiso con la calidad del código y la experiencia del usuario (UX/UI) 🎨.
 
-### Tengo conocimientos en HTML, CSS y JavaScript 🌐, y estoy ampliando mis habilidades en Front-End. Aunque aún no he comenzado con el desarrollo en Android 🤖, planeo expandir mis competencias en esa área en el futuro.
-
-### Me dedico a mejorar continuamente mis proyectos, corrigiendo errores y refinando soluciones para ofrecer aplicaciones robustas y efectivas 💡. Siempre estoy abierto a aprender y aplicar nuevas tecnologías para enfrentar desafíos complejos y contribuir a proyectos de impacto 💻📱🚀.
+### Estoy comprometido con la mejora continua de mis proyectos, corrigiendo errores y refinando soluciones para ofrecer aplicaciones robustas y efectivas 💡. Siempre estoy abierto a aprender y aplicar nuevas tecnologías para enfrentar desafíos complejos y contribuir a proyectos de impacto 🚀.
 ![image](https://raw.githubusercontent.com/matias-a-m/matias-a-m/main/banner_m_gh.png)
 
 ## Skills:
