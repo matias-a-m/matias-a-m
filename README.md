@@ -7,9 +7,6 @@ Disfruto explorando nuevas tecnologías, resolviendo desafíos y creando solucio
 
 ![image](https://raw.githubusercontent.com/matias-a-m/matias-a-m/main/banner_m_gh.png)
 
-💼 Habilidades
-Estas son las herramientas y tecnologías con las que trabajo actualmente:
-
 [![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white&labelColor=101010)]()
 
 [![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=for-the-badge&logo=xcode&logoColor=white&labelColor=101010)]()
