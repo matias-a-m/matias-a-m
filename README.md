@@ -1,9 +1,5 @@
 ## 🚀 Desarrollador iOS
-Hola, soy Matías, un desarrollador iOS autodidacta con experiencia en aplicaciones móviles nativas utilizando Swift. 📱✨
-
-Me gusta su simplicidad, que me permiten construir aplicaciones intuitivas, rápidas y bien estructuradas.
-
-Disfruto explorando nuevas tecnologías, resolviendo desafíos y creando soluciones optimizadas centradas en la experiencia del usuario.
+Desarrollador iOS con experiencia en Swift, enfocado en crear aplicaciones rápidas, seguras y fáciles de mantener. 📱✨
 
 ![image](https://raw.githubusercontent.com/matias-a-m/matias-a-m/main/banner_m_gh.png)
 
