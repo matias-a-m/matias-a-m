@@ -1,7 +1,7 @@
 ## 🚀 Desarrollador iOS
 Desarrollador iOS con experiencia en Swift, enfocado en crear aplicaciones rápidas, seguras y fáciles de mantener. 📱✨
 
-![image](https://raw.githubusercontent.com/matias-a-m/matias-a-m/main/banner_m_gh.png)
+![image](https://raw.githubusercontent.com/matias-a-m/matias-a-m/main/banner_m_gh.jpg)
 
 [![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white&labelColor=101010)]()
 
