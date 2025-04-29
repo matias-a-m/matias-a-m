@@ -27,7 +27,8 @@ Este repositorio reúne proyectos desarrollados para fortalecer y aplicar conoci
 | Proyecto | Descripción breve |
 |:---|:---|
 | [NotesApp](https://github.com/matias-a-m/NotesApp/tree/main) | Aplicación CRUD de notas locales utilizando UIKit y UserDefaults. Estructurada bajo el patrón MVC. |
-- QuotesApp | Aplicación que muestra citas motivacionales consumiendo datos de la Quotable API. Desarrollada con SwiftUI utilizando el patrón MVVM. |
+| [QuotesApp](https://github.com/matias-a-m/QuotesApp/tree/main) | Aplicación que muestra citas motivacionales obtenidas desde la API de ZenQuotes. Desarrollada utilizando SwiftUI y el patrón de arquitectura MVVM, integrando asincronía moderna con Swift Concurrency para la carga remota de datos. |
+
 - TasksFlow | Gestor de tareas locales con navegación modularizada mediante Coordinators. Implementada en SwiftUI bajo arquitectura MVVM-C. |
 - ContactsManager | Aplicación de gestión de contactos locales con separación estricta de responsabilidades. Arquitectura VIPER adaptada a SwiftUI. |
 - BooksExplorer | Explorador de libros que consume datos de Google Books API. Desarrollado en SwiftUI aplicando principios de Clean Architecture y optimización de concurrencia con GCD. |
