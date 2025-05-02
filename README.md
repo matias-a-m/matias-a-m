@@ -79,9 +79,10 @@ Exploraciones enfocadas con valor de aprendizaje directo.
 ## Sobre el autor
 
 **Matías Adrián Molina**  
-iOS Product Engineer con foco en arquitectura modular, diseño de producto y seguridad aplicada.  
-Diseño software sostenible, nativo y escalable. Uso la inteligencia artificial como copiloto técnico para potenciar exploración, aprendizaje continuo y calidad de desarrollo.  
-Este portfolio representa cómo pienso producto, diseño sistemas y evoluciono a través del código.
+Desarrollador iOS con enfoque en arquitectura modular, diseño centrado en producto y prácticas de seguridad aplicadas.
+Trabajo sobre principios de sostenibilidad, escalabilidad y experiencia nativa, integrando herramientas como SwiftUI, Clean Architecture y Swift Package Manager para construir sistemas coherentes y mantenibles.
+Uso la inteligencia artificial como copiloto técnico para enriquecer procesos de exploración, aprendizaje continuo y excelencia en el desarrollo.
+Este portfolio es una expresión concreta de cómo pienso producto, diseño sistemas y evoluciono a través del código.
 
 - Email: [matias.a.molina87@icloud.com](mailto:matias.a.molina87@icloud.com)  
 - LinkedIn: [linkedin.com/in/matias-adrián-m-3475a471](https://linkedin.com/in/matias-adrián-m-3475a471)
