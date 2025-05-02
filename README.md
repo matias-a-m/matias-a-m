@@ -39,7 +39,7 @@ El objetivo: construir software que escale, se entienda y se mantenga.
 ### Frameworks base  
 Infraestructura común para consistencia y escalabilidad.
 
-- [`InterfaceKit`](./InterfaceKit)  
+- [`InterfaceKit`](https://github.com/matias-a-m/InterfaceKit)
   Sistema visual. Tokens, estilo, componentes reutilizables.
 
 - [`FoundationKit`](./FoundationKit)  
