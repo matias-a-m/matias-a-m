@@ -42,19 +42,19 @@ Infraestructura común para consistencia y escalabilidad.
 - [`InterfaceKit`](https://github.com/matias-a-m/InterfaceKit)
   Sistema visual. Tokens, estilo, componentes reutilizables.
 
-- [`FoundationKit`](./FoundationKit)  
+- [`FoundationKit`](https://github.com/matias-a-m/InterfaceKit)
   Utilidades, extensiones y lógica compartida.
 
-- [`MotionKit`](./MotionKit)  
+- [`MotionKit`](https://github.com/matias-a-m/InterfaceKit)
   Animaciones, transiciones, feedback visual y háptico.
 
 ### Módulos técnicos  
 Exploraciones enfocadas con valor de aprendizaje directo.
 
-- [`MotionStudio`](./MotionStudio)  
+- [`MotionStudio`](https://github.com/matias-a-m/InterfaceKit)
   Laboratorio de animaciones y microinteracciones.
 
-- [`ArchitectureBench`](./ArchitectureBench)  
+- [ArchitectureBench](./ArchitectureBench)  
   Comparativa aplicada entre MVVM, VIPER y Clean Architecture.
 
 - [`UXBlueprints`](./UXBlueprints)  
