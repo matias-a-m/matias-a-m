@@ -1,89 +1,87 @@
 # Portfolio iOS Modular  
 **Matías A. Molina**
 
-Un entorno modular para explorar diseño de producto, arquitectura limpia, seguridad y experiencia nativa en Swift.
+Un sistema técnico diseñado para explorar el desarrollo iOS desde la arquitectura, la experiencia y la seguridad.  
+No es una lista de proyectos. Es una práctica estructurada para diseñar productos digitales nativos con intención.
 
 ---
 
 ## Introducción
 
-Este portfolio no es una colección de proyectos.  
-Es un sistema.  
-Cada módulo cumple un propósito técnico. Todos están conectados.  
-El objetivo: construir software que escale, se entienda y se mantenga.
+Este entorno modular nace de una búsqueda: crear software que evolucione con claridad, que resista el paso del tiempo y que refleje decisiones de diseño más allá del código.  
+Cada módulo responde a una necesidad técnica real y se conecta con los demás para formar un sistema coherente.
 
 ---
 
 ## Recorrido sugerido
 
-1. **[Abrí ProductSuiteApp](https://github.com/matias-a-m/ProductSuiteApp)**  
-   Punto de entrada. Visualizá el sistema en acción.
+1. **[Ingresá a ProductSuiteApp](https://github.com/matias-a-m/ProductSuiteApp)**  
+   Dashboard técnico. Visualizá cómo se integran los módulos.
 
 2. **Explorá los módulos técnicos**  
-   Cada uno responde a una pregunta clave:
+   Cada uno responde a una pregunta clave del desarrollo iOS moderno:
 
-   - [¿Cómo diseño una animación fluida?](https://github.com/matias-a-m/MotionStudio)
-   - [¿Cómo comparo arquitecturas en contexto real?](https://github.com/matias-a-m/ArchitectureBench)
+   - [¿Cómo diseño una animación fluida y con intención?](https://github.com/matias-a-m/MotionStudio)
+   - [¿Cómo comparo arquitecturas en un flujo real?](https://github.com/matias-a-m/ArchitectureBench)
    - [¿Qué patrones de UX funcionan mejor en SwiftUI?](https://github.com/matias-a-m/UXBlueprints)
-   - [¿Cómo gestiono concurrencia y resiliencia de estado?](https://github.com/matias-a-m/DataFlowLab)
-   - [¿Cómo integro buenas prácticas de seguridad en iOS?](https://github.com/matias-a-m/SecurityKit)
+   - [¿Cómo manejo concurrencia y resiliencia de estado?](https://github.com/matias-a-m/DataFlowLab)
+   - [¿Cómo integro seguridad sin comprometer experiencia?](https://github.com/matias-a-m/SecurityKit)
 
-3. **Leé el código**  
-   Está escrito para ser leído. Cada archivo tiene una intención clara.
+3. **Revisá el código**  
+   Está pensado para leerse. Cada archivo tiene una intención clara.
 
-4. **Revisá la documentación técnica**  
-   Encontrarás esquemas, decisiones y principios aplicados en cada módulo y framework.
+4. **Consultá la documentación técnica**  
+   Encontrarás esquemas, decisiones arquitectónicas y principios aplicados.
 
 ---
 
 ## Estructura del sistema
 
 ### Frameworks base  
-Infraestructura común para consistencia, seguridad y escalabilidad.
-
-- [`InterfaceKit`](https://github.com/matias-a-m/InterfaceKit)  
-  Sistema visual. Tokens, estilo, componentes reutilizables.
+Fundamentos compartidos que unifican estilo, comportamiento y seguridad.
 
 - [`FoundationKit`](https://github.com/matias-a-m/FoundationKit)  
-  Utilidades, extensiones y lógica compartida.
+  Lógica transversal y utilidades comunes. Reduce fricción en el desarrollo.
+
+- [`InterfaceKit`](https://github.com/matias-a-m/InterfaceKit)  
+  Tokens de diseño, componentes visuales reutilizables y layouts adaptativos.
 
 - [`MotionKit`](https://github.com/matias-a-m/MotionKit)  
-  Animaciones, transiciones, feedback visual y háptico.
+  Animaciones nativas, microinteracciones y feedback háptico coherente.
 
 - [`SecurityKit`](https://github.com/matias-a-m/SecurityKit)  
-  Criptografía, almacenamiento seguro, autenticación biométrica.
+  Cifrado, autenticación biométrica, almacenamiento seguro modular.
 
 ### Módulos técnicos  
-Exploraciones enfocadas con valor de aprendizaje directo.
+Exploraciones prácticas con foco en aprendizaje, diseño y arquitectura.
 
 - [`MotionStudio`](https://github.com/matias-a-m/MotionStudio)  
-  Laboratorio de animaciones y microinteracciones.
+  Laboratorio de transiciones visuales y respuesta háptica.
 
 - [`ArchitectureBench`](https://github.com/matias-a-m/ArchitectureBench)  
-  Comparativa aplicada entre MVVM, VIPER y Clean Architecture.
+  Comparativa práctica entre MVVM, VIPER y Clean Architecture.
 
 - [`UXBlueprints`](https://github.com/matias-a-m/UXBlueprints)  
-  Patrones de experiencia de usuario nativa en SwiftUI.
+  Biblioteca de patrones de experiencia nativa con SwiftUI.
 
 - [`DataFlowLab`](https://github.com/matias-a-m/DataFlowLab)  
-  Estado, concurrencia y resiliencia con async/await.
+  Manejo de estado, concurrencia moderna y resiliencia.
 
 ### Aplicación contenedora
 
 - [`ProductSuiteApp`](https://github.com/matias-a-m/ProductSuiteApp)  
-  Dashboard que integra todos los módulos.  
-  Úsalo como guía de navegación.
+  Punto de partida para recorrer el sistema. Integración en acción.
 
 ---
 
 ## Sobre el autor
 
 **Matías Adrián Molina**  
-Desarrollador iOS con enfoque en arquitectura modular, diseño centrado en producto y prácticas de seguridad aplicadas.
-Trabajo sobre principios de sostenibilidad, escalabilidad y experiencia nativa, integrando herramientas como SwiftUI, Clean Architecture y Swift Package Manager para construir sistemas coherentes y mantenibles.
-Uso la inteligencia artificial como copiloto técnico para enriquecer procesos de exploración, aprendizaje continuo y excelencia en el desarrollo.
-Este portfolio es una expresión concreta de cómo pienso producto, diseño sistemas y evoluciono a través del código.
+Desarrollador iOS en evolución. Diseño sistemas modulares que priorizan sostenibilidad, diseño nativo y seguridad.  
+Trabajo con Swift, SwiftUI y arquitecturas limpias aplicadas a producto. Integro herramientas como Swift Package Manager y metodologías ágiles para construir entornos mantenibles.  
+Creo que el desarrollo es una forma de diseño continuo. Este sistema es mi forma de pensar en código.
 
 - Email: [matias.a.molina87@icloud.com](mailto:matias.a.molina87@icloud.com)  
 - LinkedIn: [linkedin.com/in/matias-adrián-m-3475a471](https://linkedin.com/in/matias-adrián-m-3475a471)
+
 
