@@ -16,15 +16,15 @@ El objetivo: construir software que escale, se entienda y se mantenga.
 
 ## Recorrido sugerido
 
-1. **[Abrí ProductSuiteApp](./ProductSuiteApp)**  
+1. **[Abrí ProductSuiteApp](https://github.com/matias-a-m/ProductSuiteAppv)**  
    Punto de entrada. Visualiza el sistema en acción.
 
 2. **Explorá los módulos técnicos**  
    Cada uno responde a una pregunta clave:
 
-   - [¿Cómo diseño una animación fluida?](./MotionStudio)
-   - [¿Cómo comparo arquitecturas en contexto real?](./ArchitectureBench)
-   - [¿Qué patrones de UX funcionan mejor en SwiftUI?](./UXBlueprints)
+   - [¿Cómo diseño una animación fluida?](https://github.com/matias-a-m/InterfaceKit)
+   - [¿Cómo comparo arquitecturas en contexto real?](https://github.com/matias-a-m/MotionStudio)
+   - [¿Qué patrones de UX funcionan mejor en SwiftUI?](https://github.com/matias-a-m/UXBlueprints)
 
 3. **Leé el código**  
    Está escrito para ser leído. Cada archivo tiene una intención clara.
@@ -42,30 +42,30 @@ Infraestructura común para consistencia y escalabilidad.
 - [`InterfaceKit`](https://github.com/matias-a-m/InterfaceKit)
   Sistema visual. Tokens, estilo, componentes reutilizables.
 
-- [`FoundationKit`](https://github.com/matias-a-m/InterfaceKit)
+- [`FoundationKit`](https://github.com/matias-a-m/FoundationKit)
   Utilidades, extensiones y lógica compartida.
 
-- [`MotionKit`](https://github.com/matias-a-m/InterfaceKit)
+- [`MotionKit`](https://github.com/matias-a-m/MotionKit)
   Animaciones, transiciones, feedback visual y háptico.
 
 ### Módulos técnicos  
 Exploraciones enfocadas con valor de aprendizaje directo.
 
-- [`MotionStudio`](https://github.com/matias-a-m/InterfaceKit)
+- [`MotionStudio`](https://github.com/matias-a-m/MotionStudio)
   Laboratorio de animaciones y microinteracciones.
 
-- [ArchitectureBench](./ArchitectureBench)  
+- [`ArchitectureBench`](https://github.com/matias-a-m/ArchitectureBench)
   Comparativa aplicada entre MVVM, VIPER y Clean Architecture.
 
-- [`UXBlueprints`](./UXBlueprints)  
+- [`UXBlueprints`](https://github.com/matias-a-m/UXBlueprints)
   Patrones de experiencia de usuario nativa en SwiftUI.
 
-- [`DataFlowLab`](./DataFlowLab)  
+- [`DataFlowLab`](https://github.com/matias-a-m/DataFlowLab)
   Estado, concurrencia y resiliencia con async/await.
 
 ### Aplicación contenedora
 
-- [`ProductSuiteApp`](./ProductSuiteApp)  
+- [`ProductSuiteApp`](https://github.com/matias-a-m/ProductSuiteApp)
   Dashboard que integra todos los módulos.  
   Úsalo como guía de navegación.
 
