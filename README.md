@@ -1,47 +1,83 @@
-# iOS Developer Portfolio
+# iOS Product Engineering Portfolio  
+**Matías A. Molina**
 
-<!-- Imagen de portada -->
-<p align="center">
-  <img src="./banner.png" alt="iOS Developer Journey banner" width="100%">
-</p>
-
-
-Este repositorio reúne proyectos desarrollados para fortalecer y aplicar conocimientos en Swift, SwiftUI, arquitecturas móviles modernas, concurrencia, consumo de servicios RESTful y buenas prácticas de ingeniería de software en aplicaciones iOS.
+Un entorno modular para explorar diseño de producto, arquitectura limpia y experiencia nativa en Swift.
 
 ---
 
-## Stack Técnico
+## Introducción
 
-- **Lenguaje:** Swift
-- **Frameworks:** SwiftUI, UIKit (solo para integración puntual en MVC)
-- **Arquitecturas:** MVC, MVVM, MVVM-C, VIPER, Clean Architecture
-- **Gestión de dependencias:** Swift Package Manager
-- **Herramientas:** Xcode, Git, GitHub
-- **Testing:** XCTest, Desarrollo Guiado por Pruebas (TDD)
-- **Otros:** Grand Central Dispatch (GCD) para gestión de concurrencia, consumo de APIs RESTful
+Este portfolio no es una colección de proyectos.  
+Es un sistema.  
+Cada módulo cumple un propósito técnico. Todos están conectados.  
+El objetivo: construir software que escale, se entienda y se mantenga.
 
 ---
 
-## Proyectos
+## Recorrido sugerido
 
-| Proyecto | Descripción breve |
-|:---|:---|
-| [NotesApp](https://github.com/matias-a-m/NotesApp/tree/main) | Aplicación CRUD de notas locales utilizando UIKit y UserDefaults. Estructurada bajo el patrón MVC. |
-| [QuotesApp](https://github.com/matias-a-m/QuotesApp/tree/main) | Aplicación que muestra citas motivacionales obtenidas desde la API de ZenQuotes. Desarrollada utilizando SwiftUI y el patrón de arquitectura MVVM, integrando asincronía moderna con Swift Concurrency para la carga remota de datos. |
-| [TaskFlow](https://github.com/matias-a-m/TaskFlow/tree/main) | Gestor de tareas locales con navegación modularizada mediante Coordinators. Implementada en SwiftUI bajo arquitectura MVVM-C. |
+1. **[Abrí ProductSuiteApp](./ProductSuiteApp)**  
+   Punto de entrada. Visualiza el sistema en acción.
 
-- ContactsManager | Aplicación de gestión de contactos locales con separación estricta de responsabilidades. Arquitectura VIPER adaptada a SwiftUI. |
-- BooksExplorer | Explorador de libros que consume datos de Google Books API. Desarrollado en SwiftUI aplicando principios de Clean Architecture y optimización de concurrencia con GCD. |
+2. **Explorá los módulos técnicos**  
+   Cada uno responde a una pregunta clave:
+
+   - [¿Cómo diseño una animación fluida?](./MotionStudio)
+   - [¿Cómo comparo arquitecturas en contexto real?](./ArchitectureBench)
+   - [¿Qué patrones de UX funcionan mejor en SwiftUI?](./UXBlueprints)
+
+3. **Leé el código**  
+   Está escrito para ser leído. Cada archivo tiene una intención clara.
+
+4. **Revisá la documentación técnica**  
+   Encontrarás esquemas, decisiones y principios aplicados en cada módulo y framework.
+
+---
+
+## Estructura del sistema
+
+### Frameworks base  
+Infraestructura común para consistencia y escalabilidad.
+
+- [`InterfaceKit`](./InterfaceKit)  
+  Sistema visual. Tokens, estilo, componentes reutilizables.
+
+- [`FoundationKit`](./FoundationKit)  
+  Utilidades, extensiones y lógica compartida.
+
+- [`MotionKit`](./MotionKit)  
+  Animaciones, transiciones, feedback visual y háptico.
+
+### Módulos técnicos  
+Exploraciones enfocadas con valor de aprendizaje directo.
+
+- [`MotionStudio`](./MotionStudio)  
+  Laboratorio de animaciones y microinteracciones.
+
+- [`ArchitectureBench`](./ArchitectureBench)  
+  Comparativa aplicada entre MVVM, VIPER y Clean Architecture.
+
+- [`UXBlueprints`](./UXBlueprints)  
+  Patrones de experiencia de usuario nativa en SwiftUI.
+
+- [`DataFlowLab`](./DataFlowLab)  
+  Estado, concurrencia y resiliencia con async/await.
+
+### Aplicación contenedora
+
+- [`ProductSuiteApp`](./ProductSuiteApp)  
+  Dashboard que integra todos los módulos.  
+  Úsalo como guía de navegación.
 
 ---
 
-## Contacto
+## Sobre el autor
 
-Para consultas profesionales, colaboración o proyectos:
+**Matías Adrián Molina**  
+iOS Product Engineer autodidacta y entusiasta de la inteligencia artificial
+Diseño software sostenible, nativo y modular.Uso la inteligencia artificial como copiloto técnico para potenciar aprendizaje, exploración y calidad de desarrollo.Este portfolio representa cómo pienso producto, diseño sistemas y evoluciono a través del código.
 
-- Correo electrónico: matias.a.molina87@icloud.com
-- [LinkedIn](https://www.linkedin.com/in/matias-adrián-m-3475a471/)
-
----
+- Email: [matias.a.molina87@icloud.com](mailto:matias.a.molina87@icloud.com)  
+- LinkedIn: [linkedin.com/in/matias-adrián-m-3475a471](https://linkedin.com/in/matias-adrián-m-3475a471)
 
 
