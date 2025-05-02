@@ -1,7 +1,7 @@
-# iOS Product Engineering Portfolio  
+# Portfolio iOS Modular  
 **Matías A. Molina**
 
-Un entorno modular para explorar diseño de producto, arquitectura limpia y experiencia nativa en Swift.
+Un entorno modular para explorar diseño de producto, arquitectura limpia, seguridad y experiencia nativa en Swift.
 
 ---
 
@@ -16,15 +16,17 @@ El objetivo: construir software que escale, se entienda y se mantenga.
 
 ## Recorrido sugerido
 
-1. **[Abrí ProductSuiteApp](https://github.com/matias-a-m/ProductSuiteAppv)**  
-   Punto de entrada. Visualiza el sistema en acción.
+1. **[Abrí ProductSuiteApp](https://github.com/matias-a-m/ProductSuiteApp)**  
+   Punto de entrada. Visualizá el sistema en acción.
 
 2. **Explorá los módulos técnicos**  
    Cada uno responde a una pregunta clave:
 
-   - [¿Cómo diseño una animación fluida?](https://github.com/matias-a-m/InterfaceKit)
-   - [¿Cómo comparo arquitecturas en contexto real?](https://github.com/matias-a-m/MotionStudio)
+   - [¿Cómo diseño una animación fluida?](https://github.com/matias-a-m/MotionStudio)
+   - [¿Cómo comparo arquitecturas en contexto real?](https://github.com/matias-a-m/ArchitectureBench)
    - [¿Qué patrones de UX funcionan mejor en SwiftUI?](https://github.com/matias-a-m/UXBlueprints)
+   - [¿Cómo gestiono concurrencia y resiliencia de estado?](https://github.com/matias-a-m/DataFlowLab)
+   - [¿Cómo integro buenas prácticas de seguridad en iOS?](https://github.com/matias-a-m/SecurityKit)
 
 3. **Leé el código**  
    Está escrito para ser leído. Cada archivo tiene una intención clara.
@@ -37,35 +39,38 @@ El objetivo: construir software que escale, se entienda y se mantenga.
 ## Estructura del sistema
 
 ### Frameworks base  
-Infraestructura común para consistencia y escalabilidad.
+Infraestructura común para consistencia, seguridad y escalabilidad.
 
-- [`InterfaceKit`](https://github.com/matias-a-m/InterfaceKit)
+- [`InterfaceKit`](https://github.com/matias-a-m/InterfaceKit)  
   Sistema visual. Tokens, estilo, componentes reutilizables.
 
-- [`FoundationKit`](https://github.com/matias-a-m/FoundationKit)
+- [`FoundationKit`](https://github.com/matias-a-m/FoundationKit)  
   Utilidades, extensiones y lógica compartida.
 
-- [`MotionKit`](https://github.com/matias-a-m/MotionKit)
+- [`MotionKit`](https://github.com/matias-a-m/MotionKit)  
   Animaciones, transiciones, feedback visual y háptico.
+
+- [`SecurityKit`](https://github.com/matias-a-m/SecurityKit)  
+  Criptografía, almacenamiento seguro, autenticación biométrica.
 
 ### Módulos técnicos  
 Exploraciones enfocadas con valor de aprendizaje directo.
 
-- [`MotionStudio`](https://github.com/matias-a-m/MotionStudio)
+- [`MotionStudio`](https://github.com/matias-a-m/MotionStudio)  
   Laboratorio de animaciones y microinteracciones.
 
-- [`ArchitectureBench`](https://github.com/matias-a-m/ArchitectureBench)
+- [`ArchitectureBench`](https://github.com/matias-a-m/ArchitectureBench)  
   Comparativa aplicada entre MVVM, VIPER y Clean Architecture.
 
-- [`UXBlueprints`](https://github.com/matias-a-m/UXBlueprints)
+- [`UXBlueprints`](https://github.com/matias-a-m/UXBlueprints)  
   Patrones de experiencia de usuario nativa en SwiftUI.
 
-- [`DataFlowLab`](https://github.com/matias-a-m/DataFlowLab)
+- [`DataFlowLab`](https://github.com/matias-a-m/DataFlowLab)  
   Estado, concurrencia y resiliencia con async/await.
 
 ### Aplicación contenedora
 
-- [`ProductSuiteApp`](https://github.com/matias-a-m/ProductSuiteApp)
+- [`ProductSuiteApp`](https://github.com/matias-a-m/ProductSuiteApp)  
   Dashboard que integra todos los módulos.  
   Úsalo como guía de navegación.
 
@@ -74,10 +79,9 @@ Exploraciones enfocadas con valor de aprendizaje directo.
 ## Sobre el autor
 
 **Matías Adrián Molina**  
-iOS Product Engineer autodidacta y entusiasta de la inteligencia artificial
-Diseño software sostenible, nativo y modular.Uso la inteligencia artificial como copiloto técnico para potenciar aprendizaje, exploración y calidad de desarrollo.Este portfolio representa cómo pienso producto, diseño sistemas y evoluciono a través del código.
+iOS Product Engineer con foco en arquitectura modular, diseño de producto y seguridad aplicada.  
+Diseño software sostenible, nativo y escalable. Uso la inteligencia artificial como copiloto técnico para potenciar exploración, aprendizaje continuo y calidad de desarrollo.  
+Este portfolio representa cómo pienso producto, diseño sistemas y evoluciono a través del código.
 
 - Email: [matias.a.molina87@icloud.com](mailto:matias.a.molina87@icloud.com)  
 - LinkedIn: [linkedin.com/in/matias-adrián-m-3475a471](https://linkedin.com/in/matias-adrián-m-3475a471)
-
-
