@@ -1,87 +1,72 @@
-# Portfolio iOS Modular  
-**Matías A. Molina**
+# Sistema Modular iOS  
+**Matías A. Molina — Diseño de Producto · Arquitectura Modular · Seguridad Aplicada**
 
-Un sistema técnico diseñado para explorar el desarrollo iOS desde la arquitectura, la experiencia y la seguridad.  
-No es una lista de proyectos. Es una práctica estructurada para diseñar productos digitales nativos con intención.
+Este entorno no es una galería de proyectos. Es un sistema técnico en evolución, diseñado para construir productos digitales nativos con intención, claridad y sostenibilidad.
 
 ---
 
 ## Introducción
 
-Este entorno modular nace de una búsqueda: crear software que evolucione con claridad, que resista el paso del tiempo y que refleje decisiones de diseño más allá del código.  
-Cada módulo responde a una necesidad técnica real y se conecta con los demás para formar un sistema coherente.
+Desarrollar también es diseñar. Este sistema nace de una pregunta práctica:  
+**¿Cómo crear software iOS que escale sin perder propósito?**  
+Cada módulo responde a una necesidad real y se integra a una arquitectura que prioriza la experiencia, la seguridad y la mantenibilidad.
 
 ---
 
-## Recorrido sugerido
+## ¿Por dónde empezar?
 
-1. **[Ingresá a ProductSuiteApp](https://github.com/matias-a-m/ProductSuiteApp)**  
-   Dashboard técnico. Visualizá cómo se integran los módulos.
+1. **[Explorá ProductSuiteApp](https://github.com/matias-a-m/ProductSuiteApp)**  
+   Aplicación contenedora que muestra cómo se articula el sistema en ejecución.
 
-2. **Explorá los módulos técnicos**  
-   Cada uno responde a una pregunta clave del desarrollo iOS moderno:
+2. **Sumergite en los módulos técnicos**  
+   Cada uno aborda una dimensión crítica del desarrollo iOS moderno:
 
-   - [¿Cómo diseño una animación fluida y con intención?](https://github.com/matias-a-m/MotionStudio)
-   - [¿Cómo comparo arquitecturas en un flujo real?](https://github.com/matias-a-m/ArchitectureBench)
-   - [¿Qué patrones de UX funcionan mejor en SwiftUI?](https://github.com/matias-a-m/UXBlueprints)
-   - [¿Cómo manejo concurrencia y resiliencia de estado?](https://github.com/matias-a-m/DataFlowLab)
-   - [¿Cómo integro seguridad sin comprometer experiencia?](https://github.com/matias-a-m/SecurityKit)
+   - [`MotionStudio`](https://github.com/matias-a-m/MotionStudio) — Animaciones con intención y respuesta háptica.
+   - [`ArchitectureBench`](https://github.com/matias-a-m/ArchitectureBench) — Comparativa práctica entre MVVM, VIPER y Clean Architecture.
+   - [`UXBlueprints`](https://github.com/matias-a-m/UXBlueprints) — Patrones de interacción en SwiftUI.
+   - [`DataFlowLab`](https://github.com/matias-a-m/DataFlowLab) — Manejo de estado, concurrencia y resiliencia.
+   - [`SecurityKit`](https://github.com/matias-a-m/SecurityKit) — Seguridad aplicada sin comprometer experiencia.
 
-3. **Revisá el código**  
-   Está pensado para leerse. Cada archivo tiene una intención clara.
-
-4. **Consultá la documentación técnica**  
-   Encontrarás esquemas, decisiones arquitectónicas y principios aplicados.
+3. **Consultá la documentación**  
+   Cada repositorio incluye decisiones de diseño, principios aplicados y esquemas que sustentan el enfoque modular.
 
 ---
 
 ## Estructura del sistema
 
-### Frameworks base  
-Fundamentos compartidos que unifican estilo, comportamiento y seguridad.
+### Fundamentos
 
-- [`FoundationKit`](https://github.com/matias-a-m/FoundationKit)  
-  Lógica transversal y utilidades comunes. Reduce fricción en el desarrollo.
+Frameworks reutilizables que unifican la experiencia visual, lógica y de seguridad en todos los módulos.
 
-- [`InterfaceKit`](https://github.com/matias-a-m/InterfaceKit)  
-  Tokens de diseño, componentes visuales reutilizables y layouts adaptativos.
+- [`FoundationKit`](https://github.com/matias-a-m/FoundationKit) — Utilidades base y lógica transversal.
+- [`InterfaceKit`](https://github.com/matias-a-m/InterfaceKit) — Sistema visual con tokens, layouts adaptativos y componentes reutilizables.
+- [`MotionKit`](https://github.com/matias-a-m/MotionKit) — Animaciones nativas, microinteracciones y movimiento con intención.
+- [`SecurityKit`](https://github.com/matias-a-m/SecurityKit) — Cifrado, biometría y almacenamiento seguro modular.
 
-- [`MotionKit`](https://github.com/matias-a-m/MotionKit)  
-  Animaciones nativas, microinteracciones y feedback háptico coherente.
+### Exploraciones prácticas
 
-- [`SecurityKit`](https://github.com/matias-a-m/SecurityKit)  
-  Cifrado, autenticación biométrica, almacenamiento seguro modular.
+Laboratorios donde se experimenta con ideas de producto, arquitectura y diseño de experiencia.
 
-### Módulos técnicos  
-Exploraciones prácticas con foco en aprendizaje, diseño y arquitectura.
-
-- [`MotionStudio`](https://github.com/matias-a-m/MotionStudio)  
-  Laboratorio de transiciones visuales y respuesta háptica.
-
-- [`ArchitectureBench`](https://github.com/matias-a-m/ArchitectureBench)  
-  Comparativa práctica entre MVVM, VIPER y Clean Architecture.
-
-- [`UXBlueprints`](https://github.com/matias-a-m/UXBlueprints)  
-  Biblioteca de patrones de experiencia nativa con SwiftUI.
-
-- [`DataFlowLab`](https://github.com/matias-a-m/DataFlowLab)  
-  Manejo de estado, concurrencia moderna y resiliencia.
+- [`MotionStudio`](https://github.com/matias-a-m/MotionStudio)
+- [`ArchitectureBench`](https://github.com/matias-a-m/ArchitectureBench)
+- [`UXBlueprints`](https://github.com/matias-a-m/UXBlueprints)
+- [`DataFlowLab`](https://github.com/matias-a-m/DataFlowLab)
 
 ### Aplicación contenedora
 
 - [`ProductSuiteApp`](https://github.com/matias-a-m/ProductSuiteApp)  
-  Punto de partida para recorrer el sistema. Integración en acción.
+  Muestra cómo se integran todos los módulos dentro de una arquitectura coherente.
 
 ---
 
-## Sobre el autor
+## Sobre mí
 
 **Matías Adrián Molina**  
-Desarrollador iOS en evolución. Diseño sistemas modulares que priorizan sostenibilidad, diseño nativo y seguridad.  
-Trabajo con Swift, SwiftUI y arquitecturas limpias aplicadas a producto. Integro herramientas como Swift Package Manager y metodologías ágiles para construir entornos mantenibles.  
-Creo que el desarrollo es una forma de diseño continuo. Este sistema es mi forma de pensar en código.
+Desarrollador iOS con enfoque en arquitectura modular, diseño de producto y seguridad aplicada. Trabajo con Swift, SwiftUI y principios de Clean Architecture para construir entornos sostenibles. Integro buenas prácticas, sistemas visuales consistentes y documentación viva.
 
-- Email: [matias.a.molina87@icloud.com](mailto:matias.a.molina87@icloud.com)  
-- LinkedIn: [linkedin.com/in/matias-adrián-m-3475a471](https://linkedin.com/in/matias-adrián-m-3475a471)
+- 🌐 Sitio web: [matias-a-m.github.io](https://matias-a-m.github.io)
+- 💼 LinkedIn: [linkedin.com/in/matias-adrián-m-3475a471](https://linkedin.com/in/matias-adrián-m-3475a471)
+- 📫 Email: [matias.a.molina87@icloud.com](mailto:matias.a.molina87@icloud.com)
+
 
 
