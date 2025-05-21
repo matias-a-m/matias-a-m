@@ -1,7 +1,7 @@
 # Sistema Modular iOS  
 **Matías A. Molina — Diseño de Producto · Arquitectura Modular · Seguridad Aplicada**
 
-Este entorno no es una galería de proyectos. Es un sistema técnico en evolución, diseñado para construir productos digitales nativos con intención, claridad y sostenibilidad.
+Sistema técnico en evolución, diseñado para construir productos digitales nativos con intención, claridad y sostenibilidad.
 
 ---
 
