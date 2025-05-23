@@ -65,7 +65,7 @@ Laboratorios donde se experimenta con ideas de producto, arquitectura y diseño 
 Desarrollador iOS con enfoque en arquitectura modular, diseño de producto y seguridad aplicada. Trabajo con Swift, SwiftUI y principios de Clean Architecture para construir entornos sostenibles. Integro buenas prácticas, sistemas visuales consistentes y documentación viva.
 
 - 🌐 Sitio web: [matias-a-m.github.io](https://matias-a-m.github.io)
-- 💼 LinkedIn: [linkedin.com/in/matias-adrián-m-3475a471](https://linkedin.com/in/matias-adrián-m-3475a471)
+- 💼 LinkedIn: [linkedin.com/in/matias-adrián-m-3475a471](https://www.linkedin.com/in/matias-iosdev/)
 - 📫 Email: [matias.a.molina87@icloud.com](mailto:matias.a.molina87@icloud.com)
 
 
